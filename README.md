@@ -1,6 +1,6 @@
 # Plataforma de eventos
 
-![preview](https://imgur.com/a/QSEQo0J)
+![preview](https://i.imgur.com/PFI3brd.png)
 
 > Ignite lab
 
